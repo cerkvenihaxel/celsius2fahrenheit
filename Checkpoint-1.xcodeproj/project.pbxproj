@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		974F9F432A66F0F900EBCFB8 /* Checkpoint-1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Checkpoint-1"; sourceTree = BUILT_PRODUCTS_DIR; };
 		974F9F462A66F0F900EBCFB8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		974F9F4E2A66F20F00EBCFB8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				974F9F462A66F0F900EBCFB8 /* main.swift */,
+				974F9F4E2A66F20F00EBCFB8 /* README.md */,
 			);
 			path = "Checkpoint-1";
 			sourceTree = "<group>";
